@@ -1,4 +1,8 @@
 ﻿# RC-Diwheel
+ 
+ ## Schema
+ 
+ ![alt text](https://github.com/leonvandenbeukel/RC-Diwheel/blob/master/Schema.png)
 
  ## Parts list (just Google on the name to find a link where to buy)
 
